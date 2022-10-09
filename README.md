@@ -1,0 +1,1 @@
+# first_try_pytorch_numerical_recognition
