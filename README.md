@@ -1,1 +1,4 @@
-# first_try_pytorch_numerical_recognition
+# first_try_pytorch_numerical_recognition  
+这是我第一个实现的深度学习模型，作用为手写数字识别  
+通过MNIST的数据集进行训练，可在其数据集上进行测试，也可以通过dataset文件中的类来自定义自己的数据集进行测试，注意训练集的图片格式为28*28，且为黑底白字，所以使用自己的数据集时要注意一下这一点  
+希望自己能够慢慢进步O(∩_∩)O  
